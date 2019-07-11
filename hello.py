@@ -10,7 +10,7 @@ num1 = num1 + 1
 
 num1 +=1
 
-
+hjfhk5rhfk5k5lk5;6lkg;5
 if num1 == num2:
     print("Num1 is equal num2")
     # print("salam ")
