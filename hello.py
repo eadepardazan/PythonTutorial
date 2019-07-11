@@ -33,6 +33,7 @@ y.add("Orange")
 for z in y:
   print(z)
 
+print("Salam morteza")
 # print(x[3:6])
 
 
