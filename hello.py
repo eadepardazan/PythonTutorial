@@ -11,6 +11,10 @@ num1 = num1 + 1
 num1 +=1
 
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 if num1 == num2:
     print("Num1 is equal num2")
     # print("salam ")
