@@ -1,3 +1,17 @@
+# import camelcase
+#
+# import Tkinter
+#
+# c = camelcase.CamelCase()
+# txt = "helloworld"
+#
+# print(c.hump(txt))
+#
+# top = Tkinter.Tk()
+# # Code to add widgets will go here...
+# top.mainloop()
+
+
 num1 = 3
 num2 = 5.2
 num1 = 4
@@ -11,18 +25,14 @@ num1 = num1 + 1
 num1 +=1
 
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
-if num1 == num2:
-    print("Num1 is equal num2")
-    # print("salam ")
-elif num1 > num2:
-    print("num1 is greater")
-else:
-    print("janevi")
-i=1
+# if num1 == num2:
+#     print("Num1 is equal num2")
+#     # print("salam ")
+# elif num1 > num2:
+#     print("num1 is greater")
+# else:
+#     print("janevi")
+# i=1
 
 # while i<=5:
 #     print("Salam")
